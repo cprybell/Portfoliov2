@@ -1,0 +1,16 @@
+#titleBlock {
+    text-align: center;
+    background-color: seashell;
+}
+.bodyText {
+    text-align: center;
+}
+.leftColumn {
+    text-align: right;
+}
+.rightColumn {
+    text-align: left;
+}
+p,h2 {
+    text-align: center;
+}
